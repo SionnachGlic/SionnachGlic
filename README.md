@@ -1,0 +1,3 @@
+-  Hi, I’m @SionnachGlic
+-  I’m interested in developing my programming skills, hoping to eventually build tools that obtains valuable information from webscraping and analysing the resulting data.
+-  I’m currently learning the basics of Python.
